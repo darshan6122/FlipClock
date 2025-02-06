@@ -15,11 +15,12 @@ You can see a live demo of the clock by opening the `index.html` file in your we
 
 ## File Structure
 
-/flip-clock
+```/flip-clock
   ├── index.html
   ├── styles.css
   ├── script.js
   └── README.md
+```
 
 
 ### 1. `index.html`
